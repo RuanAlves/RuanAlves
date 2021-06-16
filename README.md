@@ -3,10 +3,10 @@
 
 # 🖥️ Tecnologias que conheço & utilizo 💪
 
-✨ Java </br>
-✨ Thymeleaf </br>
+✨ Java Web/Desktop </br>
 ✨ Elixir </br>
 ✨ Android Java </br>
+✨ JavaScript/CSS/JSON/HTML </br>
 ✨ Spring Boot </br>
 ✨ MVVM/MVP </br>
 ✨ MVC </br>
