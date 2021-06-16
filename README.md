@@ -9,6 +9,7 @@
 ✨ Android Java </br>
 ✨ Spring Boot </br>
 ✨ MVVM/MVP </br>
+✨ MVC </br>
 ✨ Clean Architecture </br>
 ✨ Consumo de API </br>
 ✨ Github </br>
