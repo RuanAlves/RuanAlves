@@ -4,18 +4,16 @@
 # 🖥️ Tecnologias que conheço & utilizo 💪
 
 ✨ Java Web/Desktop </br>
-✨ Elixir </br>
+✨ Elixir/Phoenix/TDD </br>
 ✨ Android Java </br>
 ✨ JavaScript/CSS/JSON/HTML </br>
-✨ Spring Boot </br>
+✨ Spring Boot/Spring MVC </br>
 ✨ MVVM/MVP </br>
 ✨ MVC </br>
 ✨ Clean Architecture </br>
 ✨ Consumo de API </br>
 ✨ Github </br>
-✨ Oracle </br>
-✨ SQL SERVER </br>
-✨ PostGresql </br>
+✨ Oracle/SQL SERVER/PostGresql </br>
 ✨ Jaspersoft Studio </br>
 
 # 📖 License
