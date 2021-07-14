@@ -22,5 +22,5 @@
 
 [Ruan Alves](https://github.com/RuanAlves)
 
-<i>Ps: Github em construção</i> 🔥
+<i>Obs: Muito dos projetos que trabalhei são privados, assim não podendo telôs aqui :/ ... Github em construção</i> 🔥
 
