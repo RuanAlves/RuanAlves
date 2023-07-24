@@ -1,4 +1,4 @@
-# Ruan Alves - Desenvolvedora Back-end
+# Ruan Alves - Professor Universitário & Desenvolvedora Back-end
 <p align="justify"><strong>Apaixonado por tecnologia, e aprendendo todo dia um pouco mais!</strong></p>
 
 # 🖥️ Tecnologias que conheço & utilizo 💪
